@@ -10,6 +10,9 @@
     </description>
     <url type="homepage">https://github.com/madmaxms/theme-obsidian-2/</url>
     <releases>
+        <release version="2.15" date="2020-10-01">
+            <description>blueshifted grayshades</description>
+        </release>
         <release version="2.14" date="2020-09-03">
             <description>initial flatpak release</description>
         </release>
