@@ -10,6 +10,9 @@
     </description>
     <url type="homepage">https://github.com/madmaxms/theme-obsidian-2/</url>
     <releases>
+        <release version="2.16" date="2020-11-11">
+            <description>GNOME 3.38 fixes and multiple detail improvements</description>
+        </release>
         <release version="2.15" date="2020-10-01">
             <description>blueshifted grayshades</description>
         </release>
