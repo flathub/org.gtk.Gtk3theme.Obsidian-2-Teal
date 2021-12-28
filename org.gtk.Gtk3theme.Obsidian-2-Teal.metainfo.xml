@@ -10,6 +10,9 @@
     </description>
     <url type="homepage">https://github.com/madmaxms/theme-obsidian-2/</url>
     <releases>
+        <release version="2.20" date="2021-12-28">
+            <description>tabbox, border improvements, minor bugfixes</description>
+        </release>
         <release version="2.18" date="2021-01-20">
             <description>pathbar improvements, gnome shell tray background, gray tones redshifted</description>
         </release>
